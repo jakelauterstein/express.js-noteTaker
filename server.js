@@ -26,6 +26,8 @@ app.get('/notes', (req, res) => {
 app.get('*', (req, res) => {
     res.sendFile(path.join(__dirname, './public/index.html'));
   });
+
+  // create route for adding note
 app.post('/api/notes', (req, res) => {
     const note = req.body;
     note.id = uid()
