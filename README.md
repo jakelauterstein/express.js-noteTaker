@@ -32,8 +32,8 @@ undefined
 
 ![full-site-screenshot](screenshot.png)
 
-## deployed app link: https://jakelauterstein.github.io/express.js-noteTaker/
-## heroku app: https://guarded-harbor-24280.herokuapp.com/notes
+[github deployed app](https://jakelauterstein.github.io/express.js-noteTaker/)
+[heroku deployed app](https://guarded-harbor-24280.herokuapp.com/notes)
 
 ### Questions
 
