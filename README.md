@@ -28,11 +28,16 @@ Jake Lauterstein with help from tutor AB
 
 undefined
 
-### Links
+### Screenshot
 
 ![full-site-screenshot](screenshot.png)
 
+### Github Link
+
 [github deployed app](https://jakelauterstein.github.io/express.js-noteTaker/)
+
+### Heroku Link
+
 [heroku deployed app](https://guarded-harbor-24280.herokuapp.com/notes)
 
 ### Questions
