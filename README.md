@@ -30,9 +30,10 @@ undefined
 
 ### Links
 
-![full-site-screenshot](Screen Shot 2022-05-19 at 5.41.47 PM.png)
+![full-site-screenshot](screenshot.png)
 
-## deployed app link: https://jakelauterstein.github.io/weather-dashboard-challenge-6/
+## deployed app link: https://jakelauterstein.github.io/express.js-noteTaker/
+## heroku app: https://guarded-harbor-24280.herokuapp.com/notes
 
 ### Questions
 
